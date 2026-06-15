@@ -272,9 +272,3 @@ cx-tiered-pricing/
 * Product deletion automatically removes related tier pricing records.
 * Variation deletion removes only variation-specific tiers.
 * The plugin is intentionally lightweight and follows standard WordPress development practices.
-
----
-
-## Author
-
-Creatricx
